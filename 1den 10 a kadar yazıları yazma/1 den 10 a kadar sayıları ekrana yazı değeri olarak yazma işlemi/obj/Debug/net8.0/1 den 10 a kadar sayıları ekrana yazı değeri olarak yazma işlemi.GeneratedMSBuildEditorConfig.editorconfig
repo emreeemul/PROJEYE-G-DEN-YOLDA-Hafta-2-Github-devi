@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _1_den_10_a_kadar_sayıları_ekrana_yazı_değeri_olarak_yazma_işlemi
+build_property.ProjectDir = C:\Users\Emre\source\repos\1 den 10 a kadar sayıları ekrana yazı değeri olarak yazma işlemi\1 den 10 a kadar sayıları ekrana yazı değeri olarak yazma işlemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

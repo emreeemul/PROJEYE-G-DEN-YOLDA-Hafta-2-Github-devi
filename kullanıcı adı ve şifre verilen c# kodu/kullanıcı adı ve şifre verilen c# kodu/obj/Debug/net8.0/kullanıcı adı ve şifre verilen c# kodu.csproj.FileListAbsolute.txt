@@ -1,0 +1,14 @@
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\bin\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.exe
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\bin\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.deps.json
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\bin\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.runtimeconfig.json
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\bin\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.dll
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\bin\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.pdb
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.AssemblyInfo.cs
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.dll
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\refint\kullanıcı adı ve şifre verilen c# kodu.dll
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.pdb
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\kullanıcı adı ve şifre verilen c# kodu.genruntimeconfig.cache
+C:\Users\Emre\source\repos\kullanıcı adı ve şifre verilen c# kodu\kullanıcı adı ve şifre verilen c# kodu\obj\Debug\net8.0\ref\kullanıcı adı ve şifre verilen c# kodu.dll

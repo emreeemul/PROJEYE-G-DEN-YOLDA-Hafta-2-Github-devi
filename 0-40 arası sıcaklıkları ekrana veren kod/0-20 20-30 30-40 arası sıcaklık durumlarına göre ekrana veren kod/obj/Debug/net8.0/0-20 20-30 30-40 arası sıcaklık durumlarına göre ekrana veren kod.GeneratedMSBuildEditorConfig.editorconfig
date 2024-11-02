@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _0_20_20_30_30_40_arası_sıcaklık_durumlarına_göre_ekrana_veren_kod
+build_property.ProjectDir = C:\Users\Emre\source\repos\0-20 20-30 30-40 arası sıcaklık durumlarına göre ekrana veren kod\0-20 20-30 30-40 arası sıcaklık durumlarına göre ekrana veren kod\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

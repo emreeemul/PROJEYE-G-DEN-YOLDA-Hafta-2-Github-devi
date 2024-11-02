@@ -1,0 +1,14 @@
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\bin\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).exe
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\bin\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).deps.json
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\bin\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).runtimeconfig.json
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\bin\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).dll
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\bin\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).pdb
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).AssemblyInfo.cs
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).dll
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\refint\Girilen sayının çift - tek kontrolü (if).dll
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).pdb
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\Girilen sayının çift - tek kontrolü (if).genruntimeconfig.cache
+C:\Users\Emre\source\repos\Girilen sayının çift - tek kontrolü (if)\Girilen sayının çift - tek kontrolü (if)\obj\Debug\net8.0\ref\Girilen sayının çift - tek kontrolü (if).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1 den 10 a kadar sayıları ekrana yazı değeri olarak yazma işlemi/1.0.0": {
+        "runtime": {
+          "1 den 10 a kadar sayıları ekrana yazı değeri olarak yazma işlemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1 den 10 a kadar sayıları ekrana yazı değeri olarak yazma işlemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

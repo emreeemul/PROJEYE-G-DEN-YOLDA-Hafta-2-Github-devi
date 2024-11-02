@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0-20 20-30 30-40 arası sıcaklık durumlarına göre ekrana veren kod/1.0.0": {
+        "runtime": {
+          "0-20 20-30 30-40 arası sıcaklık durumlarına göre ekrana veren kod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0-20 20-30 30-40 arası sıcaklık durumlarına göre ekrana veren kod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
